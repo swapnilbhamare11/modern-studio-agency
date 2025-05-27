@@ -1,0 +1,87 @@
+body {
+  background-color: #1c1b2f;
+  color: #ffffff;
+  font-family: "Segoe UI", sans-serif;
+}
+
+.navbar-brand span {
+  font-weight: bold;
+  color: #ff5e3a;
+}
+
+.hero-title {
+  font-size: 2.5rem;
+  font-weight: 800;
+}
+
+.btn-orange {
+  background-color: hsl(28, 96.6%, 54.3%);
+  border: none;
+}
+
+.highlight-text {
+  color: #ff5e3a;
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+}
+
+.graphic {
+  position: relative;
+}
+
+.graphic img {
+  max-width: 100%;
+  border-radius: 20px;
+}
+
+.testimonial {
+  background-color: transparent;
+  font-size: 0.9rem;
+}
+
+.testimonial img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.star-behind {
+  position: absolute;
+  top: 50%;
+  left: 80%;
+  transform: translate(-50%, -50%);
+  z-index: 0;
+  width: 100px; /* Adjust size */
+  opacity: 0.8; /* Optional for blending */
+  pointer-events: none;
+}
+
+@media (min-width: 768px) {
+  .hero-title {
+    font-size: 3.5rem;
+  }
+}
+
+.btn-orange {
+  background-color: orange;
+  color: white;
+}
+
+.highlight-text {
+  color: rgba(254, 92, 56, 0.74);
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+}
+
+.girl {
+  z-index: "-1";
+}
+
+.contact {
+  text-decoration: "none";
+}
+
+.media-handle {
+  height: "40px ";
+  width: "60px ";
+}
