@@ -1,7 +1,5 @@
 # modern-studio-agency
 
-# Theemwiz Frontend Web Developer Technical Test
-
 This project is a **pixel-perfect HTML/CSS conversion** of a design provided by **Theemwiz Web Technologies**
 ## 🚀 Project Description
 
