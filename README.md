@@ -19,5 +19,12 @@ The task was to convert a Figma design into a fully responsive, W3C-validated HT
 - W3C Validated HTML & CSS
 - Clean and well-commented code
 
-## 📁 Folder Structure
+## 🚀 Running the Project Locally with Live Server in VS Code ----------------------------->
+
+1. Open the project folder in Visual Studio Code.
+2. Make sure you have the **Live Server** extension installed.
+3. Open the `index.html` file.
+4. Right-click and select **Open with Live Server**, or click **Go Live** at the bottom-right.
+5. Your default browser will open and display the project.  
+
 
